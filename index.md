@@ -1,4 +1,4 @@
-## CS373 Spring 2018: Chia-Hua Lu
+# CS373 Spring 2018: Chia-Hua Lu
 
 
 You can use the [editor on GitHub](https://github.com/ChiaHuaLu/ChiaHuaLu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
